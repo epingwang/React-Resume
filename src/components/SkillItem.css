@@ -1,0 +1,17 @@
+.skill-progress {
+    display: inline-block;
+    border-radius: 3px;
+    width: 10px;
+    bottom: 0px;
+    top: 10px;
+    position: absolute;
+}
+
+.skill-progress-good {
+    background: #5cb85c;
+    height: 95%;
+    width: 100%;
+    bottom: 0px;
+    position: absolute;
+    border-radius: 3px;
+}

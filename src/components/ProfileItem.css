@@ -1,0 +1,20 @@
+.profile-item-container {
+    display: table;
+    width: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#icon-element {
+    margin-right: 10px;
+    vertical-align: middle;
+    text-align: center;
+    display: inline-block;
+}
+
+#profile-text {
+    font-size: 0.8em;
+    vertical-align: middle;
+    text-align: center;
+    display: inline-block;
+}

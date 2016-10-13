@@ -1,0 +1,231 @@
+{
+  "languages": {
+    "zh": "zh-cn",
+    "en": "en-us",
+    "default": "zh-cn"
+  },
+  "resume": {
+    "zh-cn": {
+      "name": "王易平",
+      "description": "全栈工程师",
+      "avatarSrc": "http://7xo2ul.com1.z0.glb.clouddn.com/avatar.jpg",
+      "location": "北京",
+      "phone": "(+86) 18800011619",
+      "email": "me@epingwang.me",
+      "homepage": "http://epingwang.me",
+      "language": "中文 English",
+      "github": "http://github.com/epingwang",
+      "work_experience": [
+        {
+          "title": "iOS Developer",
+          "company": "乐视网信息技术(北京)有限公司",
+          "companyUrl": "http://www.le.com",
+          "from": 1430150400,
+          "to": "Now",
+          "description": "Team: 移动技术产品组\n\n项目: [乐视视频客户端(iPhone/iPad)](https://itunes.apple.com/cn/app/le-shi-shi-pin-dian-ying-dian/id385285922?mt=8)\n\n* 做为核心成员，参与乐视视频iOS客户端播放器重构工作。使用`消息总线`、`命令模式`、`状态机`、`插件`等设计模式，使播放器支持复杂的功能需求。效果：减少50%代码行数，解决了若干之前无法解决的顽固bug，提高了代码的逻辑性和可读性，大幅降低了各模块之间的耦合度。\n* 创建`三播放器方案`。该方案可以动态的、顺滑的在任意时间播放广告，在播放过程中也可以动态地获取广告数据并在相应时间播放。可以实现广告预加载、网络不好时自动跳过广告。使用这个方案提高了乐视视频app 10%广告投放效率。\n\nTeam: 公共组件项目组\n\nProject: 乐视登录SDK\n\n* 主导开发注册/登录组件。根据文档或通过CocoaPods，简单几步就可以集成。已经在集团十几个产品线上稳定使用。\n\nTeam: 乐视体育－移动端研发部\n\nProject: [乐视体育客户端(iPhone/iPad)](https://itunes.apple.com/cn/app/le-shi-ti-yu-zhong-chao-du/id983202217?mt=8)\n\n* 主要工作是播放器内核开发（基于AVPlayer），以及可重用组件开发，如_表情键盘_，_弹幕系统_。"
+        },
+        {
+          "title": "iOS Developer",
+          "company": "水母互动",
+          "companyUrl": "http://www.3ovie.com/",
+          "from": 1378742400,
+          "to": 1430150400,
+          "description": "项目: 陪你看电影\n\n* 从零开始参与这个项目。参与编写该项目三个主要模块：1. 发布、参与去基于LBS的电影院观影的活动；2. 创建电影直播房间，可以多人同时看同一部电影，并通过弹幕、聊天室交流；3. 浏览最新的影讯，在线购票。这个产品最高达到 App Store 社交榜第三。"
+        },
+        {
+          "title": "Unity3D Developer, iOS Developer",
+          "company": "九合天下",
+          "companyUrl": "http://www.9hgame.com/",
+          "from": 1347206400,
+          "to": 1378742400,
+          "description": "* 参与了两款手机游戏的开发。主要负责UI、游戏逻辑、IAP、消息推送等工作。"
+        }
+      ],
+      "skills": [
+        {
+          "title": "iOS Development",
+          "tags": [
+            "Objective-C",
+            "Swift"
+          ]
+        },
+        {
+          "title": "前端 Web Development",
+          "tags": [
+            "javascript",
+            "html",
+            "css",
+            "ReactJS",
+            "AngularJS"
+          ]
+        },
+        {
+          "title": "后端 Backend Development",
+          "tags": [
+            "javascript",
+            "nodejs",
+            "express",
+            "mongodb",
+            "MySQL",
+            "PostgreSQL",
+            "nginx",
+            "linux"
+          ]
+        },
+        {
+          "title": "手游 Mobile Games Development",
+          "tags": [
+            "Unity3D",
+            "Cocos-2dx",
+            "C#",
+            "javascript",
+            "C++"
+          ]
+        }
+      ],
+      "personal_projects": [
+        {
+          "project": "票票拳",
+          "url": "https://itunes.apple.com/cn/app/piao-piao-quan/id1052094947?mt=8",
+          "from": 1438358400,
+          "to": 1443628800,
+          "description": "* 票票拳是一款面向小型现场演出的O2O应用。用户可以找到近日的演出信息，在线购票，留言互动。整个项目的iOS客户端、服务器后端、Admin控制台都是由我独立完成。"
+        },
+        {
+          "project": "React-Resume",
+          "url": "http://resume.epingwang.me",
+          "from": 1474214400,
+          "to": 1474441891,
+          "description": "* 这个简历是一个`weekend project`，使用`ReactJS`创建，部署于亚马逊AWS服务器。代码在Github上开源，[点击这里](https://github.com/epingwang/React-Resume)查看。"
+        }
+      ],
+      "education": [
+        {
+          "school": "北京大学",
+          "degree": "硕士",
+          "major": "软件工程",
+          "from": 1455984000,
+          "to": "Now"
+        },
+        {
+          "school": "天津理工大学",
+          "degree": "本科",
+          "major": "光信息科学与技术",
+          "from": 1220198400,
+          "to": 1346428800
+        }
+      ]
+    },
+    "en-us": {
+      "name": "Yiping Wang",
+      "description": "Full Stack Coder",
+      "avatarSrc": "http://7xo2ul.com1.z0.glb.clouddn.com/avatar.jpg",
+      "location": "Beijing, China",
+      "phone": "(+86) 18800011619",
+      "email": "me@epingwang.me",
+      "homepage": "http://epingwang.me",
+      "language": "中文 English",
+      "github": "http://github.com/epingwang",
+      "work_experience": [
+        {
+          "title": "iOS Developer",
+          "company": "Leshi Internet Information & Technology Corp.,Beijing",
+          "companyUrl": "http://www.le.com",
+          "from": 1430150400,
+          "to": "Now",
+          "description": "Team: Mobile Technology and Products\n\nProject: [LeTV iPhone/iPad Client](https://itunes.apple.com/cn/app/le-shi-shi-pin-dian-ying-dian/id385285922?mt=8)\n\n* Refactored the core player of LeTV iOS Client, using design patterns of `message bus`, `command`, `state machine`, `plugin` to make the player support the complex functional requirement. Impact: Reduced 50% lines of code and improved the logicality. Widely reduced the coupling degree of different modules (such as player module and advertisement module).\n* Create `Triple Player Solution` to play advertisement fluently and dynamically. It can preload AD data. When network slowdown, it can skip AD automatically. It has the ability to insert ADs at anytime (even when video is playing). This feature boosted 10% effective rate of AD.\n\nTeam: Public Reusable Component Team\n\nProject: LeTV Login SDK\n\n* Built a consistent register and login component for many different applications. It is easy to integrate with several steps by following the document or through CocoaPods.\n\nTeam: LeSports Mobile Development Team\n\nProject: [LeSports iPhone/iPad Client](https://itunes.apple.com/cn/app/le-shi-ti-yu-zhong-chao-du/id983202217?mt=8)\n\n* Focused on the architecture of core player (based on AVPlayer) and reuseable component, such as _emotion keyboard_, _danmaku system_ of this __#1 Sports App__ in China."
+        },
+        {
+          "title": "iOS Developer",
+          "company": "Shuimu Interaction Information & Technology Corp.,Beijing",
+          "companyUrl": "http://www.3ovie.com/",
+          "from": 1378742400,
+          "to": 1430150400,
+          "description": "Project: 陪你看电影 (Watch Movie With You)\n\n* Created this application from the start. Built three major modules: 1. Post and join a movie-watching activity; 2. Create a livestream movie with a chatroom; 3. Browse latest movie information and buy tickets online. The highest rank of this app is 3# in App Store social network category."
+        },
+        {
+          "title": "Unity3D Developer, iOS Developer",
+          "company": "9HGame",
+          "companyUrl": "http://www.9hgame.com/",
+          "from": 1347206400,
+          "to": 1378742400,
+          "description": "* Took part in the development of two mobile games and build UI, game logic, IAP, push notification, etc."
+        }
+      ],
+      "skills": [
+        {
+          "title": "iOS Development",
+          "tags": [
+            "Objective-C",
+            "Swift"
+          ]
+        },
+        {
+          "title": "Web Development",
+          "tags": [
+            "javascript",
+            "html",
+            "css",
+            "ReactJS",
+            "AngularJS"
+          ]
+        },
+        {
+          "title": "Backend Development",
+          "tags": [
+            "javascript",
+            "nodejs",
+            "express",
+            "mongodb",
+            "nginx",
+            "linux"
+          ]
+        },
+        {
+          "title": "Mobile Game Development",
+          "tags": [
+            "Unity3D",
+            "Cocos-2dx",
+            "C#",
+            "javascript",
+            "C++"
+          ]
+        }
+      ],
+      "personal_projects": [
+        {
+          "project": "票票拳",
+          "url": "https://itunes.apple.com/cn/app/piao-piao-quan/id1052094947?mt=8",
+          "from": 1438358400,
+          "to": 1443628800,
+          "description": "* This is an O2O application focused on small live shows. Users can find recent live show in their city, buy tickets and leave comments about the show. The iOS application, backend service and admin control panel were all developed by myself."
+        },
+        {
+          "project": "React-Resume",
+          "url": "http://resume.epingwang.me",
+          "from": 1474214400,
+          "to": 1474441891,
+          "description": "* This resume page is a weekend project using `ReactJS`, and deployed to an AWS EC2 server. You can checkout this [Repository](https://github.com/epingwang/React-Resume) on Github."
+        }
+      ],
+      "education": [
+        {
+          "school": "Peking University",
+          "degree": "Master",
+          "major": "Software Engineering",
+          "from": 1455984000,
+          "to": "Now"
+        },
+        {
+          "school": "Tianjin University of Technology",
+          "degree": "Bachelor",
+          "major": "Optical Information Science and Technology",
+          "from": 1220198400,
+          "to": 1346428800
+        }
+      ]
+    }
+  }
+}
+
+

@@ -1,0 +1,8 @@
+#profile-avatar-container {
+    display: block;
+}
+
+#profile-avatar-image {
+    width: 100px;
+    height: 100px;
+}

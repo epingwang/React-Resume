@@ -1,0 +1,12 @@
+.resume-section {
+    display: table;
+}
+
+.icon {
+    display: table-cell;
+    padding: 0 10px;
+    max-width: 36px;
+}
+.content {
+    display: table-cell;
+}

@@ -1,0 +1,28 @@
+
+.markdown-body code {
+    padding: 0;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    margin: 0;
+    font-size: 85%;
+    background-color: rgba(0,0,0,0.04);
+    border-radius: 3px;
+}
+
+.markdown-body code::before,
+.markdown-body code::after {
+    letter-spacing: -0.2em;
+    content: "\00a0";
+}
+
+.markdown-body ul {
+    list-style: disc;
+}
+
+.markdown-body li {
+    margin: 5px 5px 5px 14px;
+}
+
+.markdown-body strong {
+    font-weight: bolder;
+}
